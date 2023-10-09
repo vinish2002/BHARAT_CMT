@@ -3,7 +3,6 @@
 
 ### Webpage link: https://vinish2002.github.io/BHARAT_CMT/
 ### Webpage preview - 1:
-![CMT_1](https://github.com/vinish2002/BHARAT_CMT/assets/93365433/2a8b4ac6-0798-4d1c-90f4-c1d47ac52139)
-
+![image](https://github.com/vinish2002/BHARAT_CMT/assets/93365433/714e27f6-834f-4b97-994a-b66c7c3001a5)
 ### Webpage preview - 2:
-![CMT_2](https://github.com/vinish2002/BHARAT_CMT/assets/93365433/08d01294-1daf-4520-824f-4fe21a4904e6)
+![image](https://github.com/vinish2002/BHARAT_CMT/assets/93365433/43d91ac7-a6e6-48ec-aba1-8ec12f5a6689)
